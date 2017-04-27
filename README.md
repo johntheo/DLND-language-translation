@@ -8,6 +8,7 @@ In this project we had to build a [Sequence to Sequence model](https://www.tenso
 
 #### Topics covered
 
+- Recurrent Neural Networks
 - Sequence to Sequence models
 
 #### Project Review
